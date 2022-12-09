@@ -5,18 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        Hello EveryOne....Listen to the Latest FIFA News
+        <br />
+        <br />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          FIFA is working on a wide range of topics from improving the women's
+          game and developing football <br />
+          around the world to ensuring better football governance structures.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Hello Dhanya
-        </a>
       </header>
     </div>
   );
